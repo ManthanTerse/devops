@@ -1,3 +1,3 @@
 # DevOps Lab
 
-Welcome to the DevOps Lab - Main branch
+Welcome to the DevOps Lab - Master branch.
