@@ -9,6 +9,7 @@ dependencies = [
     "huggingface-hub>=1.30.0",
     "langchain>=1.3.18",
     "langchain-huggingface>=1.2.2",
+    "pytest>=9.1.1",
     "python-dotenv>=1.2.3",
 ]
 
