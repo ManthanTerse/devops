@@ -1,3 +1,3 @@
 # DevOps Lab
 
-Welcome to the DevOps Lab - Feature branch
+Welcome to the DevOps Lab - Feature branch.
