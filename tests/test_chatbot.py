@@ -1,5 +1,5 @@
 def test_basic_python():
-    assert 2 + 2 == 4
+    assert 2 + 2 == 5
 
 
 def test_message_is_string():
